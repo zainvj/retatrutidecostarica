@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retatrutidecostarica.up.railway.app/sitemap.xml
